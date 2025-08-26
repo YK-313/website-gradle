@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../website_gradle"
+		},
+		{
+			"name": "website-gradle",
+			"path": "../../../../../.."
+		},
+		{
+			"name": "website-gradle-1",
+			"path": "../../../../../../../website-gradle-1"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
